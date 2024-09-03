@@ -9,8 +9,9 @@ referred to as "data experts," play a crucial role in harnessing the
 power of data to derive valuable insights that drive informed
 decision-making and help accomplish business objectives.
 
+![image](https://github.com/user-attachments/assets/d5fff16d-7073-489f-a850-27b0fd6292f9)
 
- ![ Alt Text](https://www.linkedin.com/dms/prv/vid/v2/D5606AQGGKh3AsMTJ8Q/messaging-attachmentFile/messaging-attachmentFile/0/1724790834186?m=AQIitLwlBxP1vgAAAZG5Oc5IJO7PP0RJCOGb7g_k4-xUfLqC2kXI0lv_5Q&ne=1&v=beta&t=xvQeRDw8pWYfMrYPo8N4PCyyn7SLutKygUW9TuJzctI)
+ 
 
 However, as **Clive Humby** said: “*Data is the new oil. It's valuable,
 but if unrefined it cannot be used. It has to be changed into gas,
@@ -91,7 +92,8 @@ important to ensure data deduplication to avoid a storage shortage.
 Check out the image below on how to apply AI and data to enhance
 business decisions making.
 
-![](mu7cm5ztvw781.jpg)
+![Screenshot from 2024-09-01 15-52-25](https://github.com/user-attachments/assets/7e35ce27-f86c-4ca1-a54a-16ec4b0cec67)
+
 
 ## If some of the tasks below are automated, what should data scientists focus more on?
 
