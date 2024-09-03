@@ -10,7 +10,7 @@ power of data to derive valuable insights that drive informed
 decision-making and help accomplish business objectives.
 
 
-![](image.png)
+ ![ Alt Text](https://www.linkedin.com/dms/prv/vid/v2/D5606AQGGKh3AsMTJ8Q/messaging-attachmentFile/messaging-attachmentFile/0/1724790834186?m=AQIitLwlBxP1vgAAAZG5Oc5IJO7PP0RJCOGb7g_k4-xUfLqC2kXI0lv_5Q&ne=1&v=beta&t=xvQeRDw8pWYfMrYPo8N4PCyyn7SLutKygUW9TuJzctI)
 
 However, as **Clive Humby** said: “*Data is the new oil. It's valuable,
 but if unrefined it cannot be used. It has to be changed into gas,
