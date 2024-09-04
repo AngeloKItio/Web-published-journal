@@ -9,7 +9,7 @@ referred to as "data experts," play a crucial role in harnessing the
 power of data to derive valuable insights that drive informed
 decision-making and help accomplish business objectives.
 
-![image](https://github.com/user-attachments/assets/d5fff16d-7073-489f-a850-27b0fd6292f9)
+![image](https://github.com/AngeloKItio/Web-published-journal/blob/main/images/image.png)
 
  
 
@@ -92,7 +92,7 @@ important to ensure data deduplication to avoid a storage shortage.
 Check out the image below on how to apply AI and data to enhance
 business decisions making.
 
-![Screenshot from 2024-09-01 15-52-25](https://github.com/user-attachments/assets/7e35ce27-f86c-4ca1-a54a-16ec4b0cec67)
+![Screenshot from 2024-09-01 15-52-25](https://github.com/AngeloKItio/Web-published-journal/blob/main/images/mu7cm5ztvw781.jpg)
 
 
 ## If some of the tasks below are automated, what should data scientists focus more on?
