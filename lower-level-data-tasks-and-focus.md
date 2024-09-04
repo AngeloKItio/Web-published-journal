@@ -9,6 +9,7 @@ referred to as "data experts," play a crucial role in harnessing the
 power of data to derive valuable insights that drive informed
 decision-making and help accomplish business objectives.
 
+
 ![image](https://github.com/AngeloKItio/Web-published-journal/blob/main/images/image.png)
 
  
@@ -92,7 +93,9 @@ important to ensure data deduplication to avoid a storage shortage.
 Check out the image below on how to apply AI and data to enhance
 business decisions making.
 
+
 ![Screenshot from 2024-09-01 15-52-25](https://github.com/AngeloKItio/Web-published-journal/blob/main/images/mu7cm5ztvw781.jpg)
+
 
 
 ## If some of the tasks below are automated, what should data scientists focus more on?
@@ -135,7 +138,8 @@ opportunity for data scientists to avoid getting bogged down in daily,
 repetitive tasks by focusing on long-term AI projects that align with
 strategic business objectives.
 
-##### Automating lower-level tasks allows data scientists to focus on whattruly matters: developing advanced machine learning models, conductingstrategic data analysis, and reaching business goals. By concentrating on these high-impact areas, data scientists can drive meaningful insights and innovation, ultimately delivering greater value to their organizations. Remember, smarter work is more valued than harder work.
+
+Automating lower-level tasks allows data scientists to focus on whattruly matters: developing advanced machine learning models, conductingstrategic data analysis, and reaching business goals. By concentrating on these high-impact areas, data scientists can drive meaningful insights and innovation, ultimately delivering greater value to their organizations. Remember, smarter work is more valued than harder work.
 
 
 
