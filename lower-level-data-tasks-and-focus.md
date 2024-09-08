@@ -1,3 +1,28 @@
+---
+title: "What are the lower-level tasks with data that take a data scientist's focus off of what matters?"
+menu_order: 1
+post_status: "draft"
+post_excerpt: "AI has significantly shaped the way data scientists work. Instead of sticking with the old data science approach to solve a business question, a data scientist should embrace AI to work smarter and enhance strategic decision making."
+post_date: 2024-09-08 12:36:00
+comment_status: "open" 
+page_template: "default" 
+stick_post: "yes" 
+taxonomy:
+  categories:
+    - Data Science
+    - AI
+  tags:
+    - machine learning
+    - Data Science
+    - AI
+custom_fields:
+  time_to_read: "5 minutes"
+skip_file: "no" 
+featured_image: "/images/image.png"
+---
+
+
+
 #  What are the lower-level tasks with data that take a data scientist's focus off of what matters?
 
 
