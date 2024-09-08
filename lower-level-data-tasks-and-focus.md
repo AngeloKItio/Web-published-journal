@@ -18,7 +18,7 @@ taxonomy:
 custom_fields:
   time_to_read: "5 minutes"
 skip_file: "no" 
-featured_image: "./images/image.png"
+featured_image: "/images/image.png"
 ---
 
 
